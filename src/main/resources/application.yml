@@ -1,0 +1,9 @@
+server:
+  port: 8080
+
+
+application:
+  letters: [ "А", "Е", "Т", "О", "Р", "Н", "У", "К", "Х", "С", "В", "М" ]
+  constant: " 116 RUS"
+  max-digits: 999
+  last-number: C000AA
